@@ -1,59 +1,44 @@
-<!-- Accent Color: #FFB5C0 -->
-
-<h1 align="center" style="color:#FFB5C0;">Hi, I'm Sumaiya 💫</h1>
+<h1 align="center">Sumaiya Batool</h1>
 
 <p align="center">
-  <em>
-    I'm a Computer Science student at IBA interested in UI/UX engineering, 
-    frontend architecture, and human-centered systems.
-  </em>
+  Computer Science student at IBA  
+  <br/>
+  Focused on UI/UX engineering, frontend architecture, and human-centered systems.
 </p>
 
----
+<br/>
 
-## 🌸 Tech Stack
+## About
 
-### 🎀 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-FFB5C0?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-FFB5C0?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FFB5C0?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-FFB5C0?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+I build thoughtful web interfaces with an emphasis on clarity, performance, and usability.  
+Interested in systems that balance engineering precision with human experience.
 
-### 🌷 Backend
-<p>
-  <img src="https://img.shields.io/badge/C++-FFB5C0?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFB5C0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-FFB5C0?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+<br/>
 
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MySQL-FFB5C0?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_SQL-FFB5C0?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-FFB5C0?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+## Tech Stack
 
-### 🛠 Tools & Software
-<p>
-  <img src="https://img.shields.io/badge/Docker-FFB5C0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-FFB5C0?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-FFB5C0?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-FFB5C0?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-FFB5C0?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+**Frontend**  
+React · Node.js · HTML · CSS  
 
----
+**Backend**  
+C++ · Python · Flask  
 
-## 📊 GitHub Stats
+**Database**  
+MySQL · Oracle SQL · MongoDB  
+
+**Tools**  
+Docker · Figma · Canva · Git · GitHub  
+
+<br/>
+
+## Currently Exploring
+
+Interface performance optimization  
+Algorithmic efficiency in interactive systems  
+Design systems & scalable frontend architecture  
+
+<br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB5C0&height=120&section=footer"/>
-</p>
-
----
-
-<p align="center" style="color:#FFB5C0;">
-  ✨ Designing thoughtful systems with performance and people in mind ✨
+  — Designing systems that feel effortless —
 </p>
