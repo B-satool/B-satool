@@ -49,14 +49,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=B-satool&show_icons=true&title_color=FFB5C0&icon_color=FFB5C0"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=B-satool&layout=compact&title_color=FFB5C0"
-    height="165"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB5C0&height=120&section=footer"/>
 </p>
 
 ---
